@@ -23,8 +23,8 @@ would be easy to modify for what you need.
 
 ## Disclaimer
 
-Don't use this code. Just a friendly reminder that the church doesn't like
-missionaries writing their own code. They should make better tools,
+Don't use this code. Just a friendly reminder that the missionary department
+doesn't like missionaries writing their own code. They should make better tools,
 yet here we are.
 
 ## License
