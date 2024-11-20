@@ -1,0 +1,16 @@
+[package]
+name = "presi"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde_repr = { version = "*" }
+serde = { version = "*", features = ["derive"] }
+serde_json = { version = "*" }
+tokio = { version = "*", features = ["full"] }
+reqwest = { version = "*", features = ["json"] }
+dotenvy = { version = "*" }
+base64 = { version = "*" }
+flate2 = { version = "*" }
+chrono = { version = "*", features = ["serde"] }
+csv = { version = "*" }

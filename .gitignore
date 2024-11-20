@@ -1,0 +1,9 @@
+/target
+/cache
+/node_modules
+*.json
+*.sh
+.env
+*.py
+*.csv
+
